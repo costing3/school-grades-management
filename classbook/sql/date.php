@@ -6,6 +6,7 @@
 	$resultnume = mysql_query($sqlnume, $db);
 	$resultprenume = mysql_query($sqlprenume, $db);
 	$resultrol = mysql_query($sqlrol, $db);
+
 		while ($row = mysql_fetch_assoc($resultnume)) {
 			$xnume=$row['Nume'];
 		}mysql_free_result($resultnume);	
