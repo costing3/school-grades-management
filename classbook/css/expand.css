@@ -1,0 +1,14 @@
+.more {
+    display: none;
+    padding-top: 10px;
+}
+
+a.showLink, a.hideLink {
+    text-decoration: none;
+    -webkit-transition: 0.5s ease-out;
+    background: transparent url('down.gif') no-repeat left; }
+
+a.hideLink {
+    background: transparent url('up.gif') no-repeat left; 
+}
+
