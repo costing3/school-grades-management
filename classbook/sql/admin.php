@@ -432,7 +432,7 @@ require_once("sql/date.php");
 			</div>
 		</section>
 		<div id="footer">
-			© Speed | 2017 
+			Â© Speed | 2017 
 			 
 		</div>
 		<!-- JQUERY -->
