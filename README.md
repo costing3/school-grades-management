@@ -1,4 +1,4 @@
-A web app I made for my High School using HTML, PHP, JS and SQL code that manages students' marks.
+A web app I made for my High School using HTML, PHP, JS and SQL code that manages students' marks and their attendance.
 ______
 
 The app supports 4 types of users each one having different access and permission levels.
